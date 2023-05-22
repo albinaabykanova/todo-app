@@ -9,7 +9,7 @@ function List() {
 
   filtred = todos;
 
-  if(activeFilter !== 'all')
+  
 
     return (
       <ul className="todo-list">
